@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Rasaki Muritala & Co."
+description = "A publishable corporate website for Rasaki Muritala & Co., a Nigerian professional services firm centered on audit, assurance, accounting, taxation, and financial advisory."
+version = "1.0.0"
+id = "artifacts/rasaki-muritala-site"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19671
+
+[services.development]
+run = "pnpm --filter @workspace/rasaki-muritala-site run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/rasaki-muritala-site", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/rasaki-muritala-site/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19671"
+BASE_PATH = "/"

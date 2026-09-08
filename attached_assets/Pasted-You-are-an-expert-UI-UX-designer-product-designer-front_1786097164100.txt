@@ -1,0 +1,1540 @@
+You are an expert UI/UX designer, product designer, frontend engineer, visual designer and web developer.
+
+DO NOT merely produce a UI/UX design specification.
+
+YOUR TASK IS TO ACTUALLY BUILD A COMPLETE, FUNCTIONAL, HIGH-FIDELITY WEBSITE MOCKUP for:
+
+RASAKI MURITALA & CO.
+
+The website is for a Nigerian professional services firm specializing primarily in:
+
+1. AUDITING
+2. ACCOUNTING
+3. TAXATION
+4. FINANCIAL ADVISORY
+5. BANK ADVISORY
+6. MANAGEMENT CONSULTING
+7. BUSINESS ADVISORY
+8. TRAINING
+9. COMPUTER / TECHNOLOGY SERVICES
+10. OTHER PROFESSIONAL SERVICES
+
+The existing website is:
+
+https://rasakimuritala.com/
+
+Study the existing website carefully before implementing the redesign.
+
+Understand its existing:
+- Menu
+- Pages
+- Services
+- Company information
+- Existing content
+- Contact information
+- About information
+- Service descriptions
+- Blog/News content
+- Company positioning
+
+DO NOT remove important existing information simply because you are redesigning it.
+
+Instead, reorganize and present the information in a much better modern experience.
+
+IMPORTANT:
+
+The final result must look like an ACTUAL FINISHED WEBSITE.
+
+Do not give me wireframes.
+
+Do not create empty placeholders everywhere.
+
+Do not create a generic consulting template.
+
+Do not use random Silicon Valley / American corporate imagery.
+
+Actually build the pages, components, layouts, navigation, hero sliders, sections, cards, forms, imagery, responsive layouts and interactions.
+
+The website should be visually believable enough that a client can review the Replit preview and immediately understand what the final website will look like.
+
+==================================================
+1. CORE BUSINESS POSITIONING
+==================================================
+
+The most important positioning of this website is:
+
+AUDITING AND FINANCIAL ASSURANCE.
+
+Do not make the company look primarily like a technology company, coaching company, startup or generic management consultancy.
+
+Auditing must be visually and strategically prominent throughout the website.
+
+The hierarchy should be approximately:
+
+AUDIT & ASSURANCE
+↓
+ACCOUNTING & FINANCIAL REPORTING
+↓
+TAXATION & TAX ADVISORY
+↓
+FINANCIAL & BANK ADVISORY
+↓
+BUSINESS & MANAGEMENT CONSULTING
+↓
+TRAINING
+↓
+TECHNOLOGY / COMPUTER SERVICES
+↓
+OTHER PROFESSIONAL SERVICES
+
+The homepage must make it immediately obvious that Rasaki Muritala & Co. helps Nigerian organizations achieve:
+
+- Financial accuracy
+- Regulatory compliance
+- Accountability
+- Transparency
+- Risk reduction
+- Better financial decision-making
+- Sustainable business growth
+
+==================================================
+2. TARGET AUDIENCE
+==================================================
+
+Design the website specifically for the Nigerian business ecosystem.
+
+Target visitors include:
+
+- Nigerian SMEs
+- Large Nigerian corporations
+- Banks
+- Financial institutions
+- Government institutions
+- Public sector organizations
+- NGOs
+- Educational institutions
+- Manufacturing companies
+- Construction companies
+- Healthcare organizations
+- Churches and religious organizations
+- Professional organizations
+- Startups
+- Family-owned businesses
+- International organizations operating in Nigeria
+
+The visual language must therefore feel relevant to Nigeria.
+
+==================================================
+3. VISUAL DIRECTION
+==================================================
+
+Create a premium Nigerian corporate identity.
+
+The website should feel:
+
+Professional
+Trustworthy
+Financial
+Established
+Modern
+African
+Nigerian
+Corporate
+Approachable
+Authoritative
+
+Avoid making it look like a copied Western accounting website.
+
+Use realistic Nigerian business environments.
+
+Examples of imagery:
+
+- Nigerian accountants reviewing financial documents
+- Nigerian auditors in corporate offices
+- Nigerian professionals in boardroom meetings
+- Nigerian business owners meeting financial consultants
+- Nigerian executives discussing financial reports
+- Nigerian banking environments
+- Nigerian SMEs
+- Nigerian manufacturing facilities
+- Nigerian commercial buildings
+- Lagos business districts
+- Abuja corporate environments
+- Nigerian professionals using laptops and financial dashboards
+- Auditors reviewing documents
+- Financial teams examining spreadsheets
+- Corporate meetings involving Nigerian professionals
+
+Images should depict realistic Nigerian people, clothing, environments and businesses.
+
+Do not use obviously artificial-looking corporate stock photos.
+
+Do not make every person wear a suit.
+
+Show a realistic mixture of Nigerian corporate environments.
+
+==================================================
+4. IMAGE REQUIREMENT
+==================================================
+
+USE REALISTIC, HIGH-QUALITY IMAGES THROUGHOUT THE WEBSITE.
+
+If external image URLs are required for the mockup, use suitable image sources that can actually render in the Replit preview.
+
+If image-generation capabilities are available, generate realistic Nigerian corporate imagery.
+
+Create an image asset structure so images can easily be replaced later.
+
+Example:
+
+/public/images/
+  hero/
+  audit/
+  accounting/
+  tax/
+  advisory/
+  team/
+  projects/
+  industries/
+  blog/
+
+Do not use the same image repeatedly.
+
+Every major section should have an appropriate visual.
+
+==================================================
+5. BRAND COLORS
+==================================================
+
+Use a premium financial-services palette.
+
+Primary:
+
+Deep Navy
+#071B34
+
+Secondary:
+
+Royal Blue
+#174EA6
+
+Accent:
+
+Professional Gold
+#C9A227
+
+Background:
+
+#FFFFFF
+
+Light Section:
+
+#F5F7FA
+
+Dark Section:
+
+#071B34
+
+Text:
+
+#172033
+
+The gold should be used sparingly for premium emphasis.
+
+Do NOT make the website overly colorful.
+
+==================================================
+6. TYPOGRAPHY
+==================================================
+
+Use:
+
+Headings:
+Manrope
+
+Body:
+Inter
+
+Large professional headings.
+
+Strong typography hierarchy.
+
+Excellent readability.
+
+Use large editorial-style headings for important sections.
+
+==================================================
+7. MAIN NAVIGATION
+==================================================
+
+Create a fully functional responsive navigation.
+
+Desktop menu:
+
+HOME
+ABOUT US
+SERVICES
+OUR TEAM
+PROJECTS
+INDUSTRIES
+INSIGHTS
+BLOG
+CONTACT
+
+Primary CTA:
+
+BOOK A CONSULTATION
+
+SERVICES should open a mega menu.
+
+The mega menu should visually organize services into categories:
+
+AUDIT & ASSURANCE
+- Audit Services
+- Internal Audit
+- External Audit
+- Audit & Assurance Advisory
+
+ACCOUNTING & FINANCIAL
+- Accounting Services
+- Financial Reporting
+- Financial Advisory
+
+TAXATION
+- Tax Advisory
+- Tax Compliance
+- Tax Planning
+
+ADVISORY
+- Bank Advisory
+- Business Advisory
+- Management Consulting
+
+TRAINING & TECHNOLOGY
+- Professional Training
+- Computer / Technology Services
+- Other Services
+
+Do not invent services that conflict with the actual business. Where exact service names are available from the existing website, retain them.
+
+==================================================
+8. HOMEPAGE HERO
+==================================================
+
+The homepage must start with a PREMIUM FULL-WIDTH IMAGE CAROUSEL.
+
+This is extremely important.
+
+Create 4-5 realistic Nigerian-focused hero slides.
+
+The hero should occupy approximately 75-90vh on desktop.
+
+Each slide should have:
+
+- High-quality Nigerian image
+- Dark gradient overlay
+- Large headline
+- Supporting copy
+- Primary CTA
+- Secondary CTA
+- Slide number
+- Progress indicator
+- Navigation arrows
+
+Use smooth transitions.
+
+Autoplay every 5-7 seconds.
+
+Pause on hover.
+
+Support swipe on mobile.
+
+==================================================
+HERO SLIDE 1 — AUDIT
+==================================================
+
+IMAGE:
+
+A realistic Nigerian audit team of 3-5 professionals reviewing financial documents around a boardroom table in a modern Lagos corporate office.
+
+Headline:
+
+"Independent Audits. Reliable Financial Insights."
+
+Supporting text:
+
+"Helping organizations strengthen financial accountability, improve transparency and make better-informed decisions through professional audit and assurance services."
+
+Buttons:
+
+"Explore Audit Services"
+
+"Book a Consultation"
+
+Small label:
+
+AUDIT & ASSURANCE
+
+==================================================
+HERO SLIDE 2 — BUSINESS
+==================================================
+
+IMAGE:
+
+Realistic Nigerian business executives reviewing financial charts on a laptop in a modern office.
+
+Headline:
+
+"Clarity Behind Every Financial Decision."
+
+Supporting:
+
+"Professional accounting, financial advisory and business solutions designed for the realities of the Nigerian business environment."
+
+Buttons:
+
+"Explore Our Services"
+
+"Talk to an Expert"
+
+==================================================
+HERO SLIDE 3 — TAX
+==================================================
+
+IMAGE:
+
+Realistic Nigerian finance professionals discussing taxation and financial documents.
+
+Headline:
+
+"Navigate Tax With Confidence."
+
+Supporting:
+
+"Practical tax advisory and compliance support that helps businesses understand their obligations and plan with confidence."
+
+Buttons:
+
+"Tax Advisory"
+
+"Book Consultation"
+
+==================================================
+HERO SLIDE 4 — ADVISORY
+==================================================
+
+IMAGE:
+
+Nigerian executives in a professional boardroom discussing financial strategy.
+
+Headline:
+
+"Financial Expertise. Strategic Direction."
+
+Supporting:
+
+"From bank advisory to business consulting, we help organizations understand their numbers and act on opportunities."
+
+Buttons:
+
+"Explore Advisory"
+
+"Contact Us"
+
+==================================================
+HERO SLIDE 5 — TRUST
+==================================================
+
+IMAGE:
+
+Professional Nigerian accounting team standing in a modern office.
+
+Headline:
+
+"Trusted Financial Professionals for Growing Organizations."
+
+Supporting:
+
+"Experience, professionalism and integrity applied to every engagement."
+
+Buttons:
+
+"Meet Our Team"
+
+"Work With Us"
+
+==================================================
+9. TRUST STRIP
+==================================================
+
+Immediately after the hero, create a slim trust section.
+
+Display:
+
+AUDIT & ASSURANCE
+
+ACCOUNTING
+
+TAX ADVISORY
+
+FINANCIAL ADVISORY
+
+BUSINESS CONSULTING
+
+TRAINING
+
+Use subtle icons.
+
+==================================================
+10. ABOUT SECTION
+==================================================
+
+Create a strong "Who We Are" section.
+
+Use realistic image of Nigerian accounting professionals.
+
+Headline:
+
+"Professional Financial Expertise Built on Trust."
+
+Explain the company in a concise, professional manner based on the actual content of the existing website.
+
+Include:
+
+- Company experience
+- Professional expertise
+- Mission
+- Vision
+- Commitment to clients
+
+CTA:
+
+"Discover Our Story"
+
+==================================================
+11. AUDIT FEATURE SECTION
+==================================================
+
+THIS MUST BE ONE OF THE MOST IMPORTANT SECTIONS ON THE HOMEPAGE.
+
+Create a large premium Audit section.
+
+Dark navy background.
+
+Left:
+
+Large heading:
+
+"AUDIT & ASSURANCE"
+
+"Confidence in the numbers. Clarity for the future."
+
+Right:
+
+Realistic image of Nigerian auditors working with financial statements.
+
+Below:
+
+Create four service cards:
+
+External Audit
+
+Internal Audit
+
+Financial Statement Review
+
+Audit Advisory
+
+Each card contains:
+
+Icon
+
+Short description
+
+Learn More
+
+CTA:
+
+"Explore Audit & Assurance"
+
+==================================================
+12. SERVICES
+==================================================
+
+Create a modern services section.
+
+Title:
+
+"Our Professional Services"
+
+Subtitle:
+
+"Practical expertise for today's Nigerian business environment."
+
+Create large interactive service cards.
+
+Prioritize:
+
+1. Audit Services
+2. Accounting Services
+3. Tax Advisory
+4. Bank Advisory
+5. Financial Advisory
+6. Management Consulting
+7. Training
+8. Computer Services
+9. Other Services
+
+Each card should include realistic imagery or an appropriate professional visual.
+
+Hover:
+
+Image zoom
+
+Card lift
+
+Arrow animation
+
+==================================================
+13. WHY CHOOSE US
+==================================================
+
+Create a premium section.
+
+Heading:
+
+"Why Organizations Choose Rasaki Muritala & Co."
+
+Include:
+
+Professional Expertise
+
+Integrity & Independence
+
+Deep Understanding of the Nigerian Business Environment
+
+Practical Solutions
+
+Client-Centered Approach
+
+Confidentiality
+
+Timely Delivery
+
+Long-Term Partnership
+
+Use Nigerian professional imagery.
+
+==================================================
+14. OUR TEAM
+==================================================
+
+Create a dedicated "Our Team" homepage section.
+
+Use realistic professional Nigerian portraits.
+
+Do NOT fabricate specific names, qualifications or positions if they are not available from the source website.
+
+Where exact team information is unavailable, use clearly marked mockup placeholders that can later be replaced.
+
+Cards:
+
+PHOTO
+
+NAME
+
+POSITION
+
+SHORT PROFESSIONAL DESCRIPTION
+
+"View Profile"
+
+Include:
+
+"Meet Our Entire Team"
+
+==================================================
+15. PROJECTS
+==================================================
+
+Create a dedicated Projects section.
+
+The goal is to demonstrate actual professional experience.
+
+Do not make it look like a software portfolio.
+
+Projects should feel like professional accounting, auditing and consulting engagements.
+
+Project categories:
+
+Audit
+
+Tax
+
+Accounting
+
+Financial Advisory
+
+Bank Advisory
+
+Business Consulting
+
+Training
+
+Technology
+
+Create large case-study cards.
+
+Each project:
+
+Project image
+
+Industry
+
+Service
+
+Challenge
+
+Solution
+
+Outcome
+
+"View Case Study"
+
+If actual project details are unavailable, create clearly labeled realistic sample/mockup case studies that can later be replaced with verified client information.
+
+DO NOT invent real client names.
+
+==================================================
+16. INDUSTRIES
+==================================================
+
+Create a Nigerian-focused industry section.
+
+Include:
+
+Banking & Financial Services
+
+Government & Public Sector
+
+Manufacturing
+
+Education
+
+Healthcare
+
+Construction & Real Estate
+
+NGOs & Nonprofits
+
+Retail & SMEs
+
+Oil & Gas
+
+Agriculture
+
+Religious Organizations
+
+Professional Services
+
+Use realistic Nigerian imagery for each industry.
+
+==================================================
+17. NUMBERS / STATISTICS
+==================================================
+
+Create a visually impressive statistics section.
+
+Use actual figures from the existing website if available.
+
+If unavailable, use neutral labels without fabricated numbers.
+
+Examples:
+
+Years of Professional Experience
+
+Clients Served
+
+Audit Engagements
+
+Industries Served
+
+Training Programmes
+
+Professional Consultants
+
+Do not invent impressive statistics simply to make the website look better.
+
+==================================================
+18. OUR PROCESS
+==================================================
+
+Create:
+
+"How We Work"
+
+Step 01
+
+Understand
+
+Step 02
+
+Assess
+
+Step 03
+
+Plan
+
+Step 04
+
+Execute
+
+Step 05
+
+Report
+
+Step 06
+
+Advise
+
+Use an elegant horizontal timeline on desktop and vertical timeline on mobile.
+
+==================================================
+19. CLIENT TESTIMONIALS
+==================================================
+
+Create a premium testimonial slider.
+
+Use realistic Nigerian business context.
+
+If actual testimonials exist on the current website, preserve them.
+
+Do not fabricate testimonials and attribute them to real people.
+
+For mockup testimonials without verified sources, label them as:
+
+"Client Testimonial Placeholder"
+
+==================================================
+20. INSIGHTS / BLOG
+==================================================
+
+Create a modern Nigerian financial insights section.
+
+Categories:
+
+Audit
+
+Tax
+
+Accounting
+
+Finance
+
+Business
+
+Regulatory Updates
+
+SME
+
+Use realistic article cards.
+
+Examples of article topics:
+
+"Understanding Financial Reporting Requirements for Nigerian Businesses"
+
+"Why Independent Audits Matter for Growing Organizations"
+
+"Preparing Your Business for Tax Compliance"
+
+"Financial Controls Every Nigerian Business Should Consider"
+
+Do not present invented regulatory claims as factual.
+
+==================================================
+21. NEWSLETTER
+==================================================
+
+Create:
+
+"Financial Insights for Better Decisions"
+
+Email field
+
+Subscribe button
+
+Privacy statement
+
+==================================================
+22. CONTACT / CONSULTATION CTA
+==================================================
+
+Create a powerful final CTA.
+
+Headline:
+
+"Let's Talk About Your Business."
+
+Supporting:
+
+"Whether you need an independent audit, tax advice, financial guidance or business consulting, our team is ready to help."
+
+Buttons:
+
+"Book a Consultation"
+
+"Contact Our Team"
+
+==================================================
+23. CONTACT PAGE
+==================================================
+
+Create a complete contact page.
+
+Include the actual contact information from the existing website.
+
+Sections:
+
+Office Address
+
+Phone
+
+Email
+
+Business Hours
+
+Google Maps placeholder
+
+Contact Form
+
+Department selection
+
+Service required
+
+Message
+
+Submit
+
+==================================================
+24. BOOK CONSULTATION PAGE
+==================================================
+
+Create a realistic consultation workflow.
+
+Step 1:
+
+Select Service
+
+Audit
+
+Tax
+
+Accounting
+
+Advisory
+
+Training
+
+Other
+
+Step 2:
+
+Your Information
+
+Name
+
+Company
+
+Email
+
+Phone
+
+Step 3:
+
+Tell Us About Your Need
+
+Step 4:
+
+Preferred Meeting Date
+
+Step 5:
+
+Confirmation
+
+Create a professional confirmation screen.
+
+==================================================
+25. ABOUT PAGE
+==================================================
+
+Create a full About page.
+
+Include the actual company story.
+
+Sections:
+
+Who We Are
+
+Our History
+
+Mission
+
+Vision
+
+Core Values
+
+Professional Standards
+
+Leadership
+
+Our Approach
+
+Why Clients Trust Us
+
+CTA
+
+==================================================
+26. SERVICES PAGE
+==================================================
+
+Create a complete Services landing page.
+
+AUDIT should be visually dominant.
+
+Use:
+
+Audit & Assurance
+
+Accounting
+
+Tax Advisory
+
+Bank Advisory
+
+Financial Advisory
+
+Management Consulting
+
+Training
+
+Computer Services
+
+Other Services
+
+Each should link to a detailed service page.
+
+==================================================
+27. AUDIT SERVICE PAGE
+==================================================
+
+Make this the strongest service page on the website.
+
+Hero:
+
+"Audit & Assurance"
+
+Supporting:
+
+"Independent, objective and professional assurance for organizations that value accountability."
+
+Sections:
+
+Why Audit Matters
+
+Our Audit Approach
+
+Audit Services
+
+Benefits
+
+Who We Serve
+
+Our Process
+
+Frequently Asked Questions
+
+CTA
+
+Use realistic Nigerian audit imagery throughout.
+
+==================================================
+28. TAX PAGE
+==================================================
+
+Include:
+
+Tax Advisory
+
+Tax Compliance
+
+Tax Planning
+
+Business Tax Support
+
+CTA
+
+Use realistic Nigerian finance professionals.
+
+==================================================
+29. ACCOUNTING PAGE
+==================================================
+
+Include:
+
+Financial Reporting
+
+Bookkeeping
+
+Management Accounts
+
+Financial Analysis
+
+Accounting Advisory
+
+==================================================
+30. BANK ADVISORY PAGE
+==================================================
+
+Create a premium financial advisory experience.
+
+Use Nigerian banking and corporate imagery.
+
+Include:
+
+Financial Assessment
+
+Banking Advisory
+
+Financial Structuring
+
+Business Finance Support
+
+==================================================
+31. TRAINING PAGE
+==================================================
+
+Show Nigerian professionals participating in:
+
+Financial training
+
+Audit training
+
+Accounting training
+
+Tax training
+
+Corporate workshops
+
+Include training programme cards.
+
+==================================================
+32. BLOG PAGE
+==================================================
+
+Build a complete modern editorial interface.
+
+Features:
+
+Featured article
+
+Categories
+
+Search
+
+Article cards
+
+Author
+
+Date
+
+Reading time
+
+Related articles
+
+Newsletter
+
+==================================================
+33. PROJECTS PAGE
+==================================================
+
+Build a searchable/filterable project portfolio.
+
+Filters:
+
+Audit
+
+Tax
+
+Accounting
+
+Advisory
+
+Training
+
+Technology
+
+Industry
+
+Each case study must have its own page.
+
+==================================================
+34. OUR TEAM PAGE
+==================================================
+
+Create a professional Nigerian team directory.
+
+Filters:
+
+Leadership
+
+Audit
+
+Tax
+
+Accounting
+
+Advisory
+
+Training
+
+Administration
+
+Use real team information from the existing website where available.
+
+==================================================
+35. MOBILE EXPERIENCE
+==================================================
+
+The website must not simply shrink the desktop version.
+
+Design a proper mobile experience.
+
+Mobile navigation:
+
+Hamburger menu
+
+Slide-in navigation
+
+Book Consultation sticky button
+
+Hero slider optimized for mobile
+
+Swipe gestures
+
+Stacked cards
+
+Readable typography
+
+Fast loading
+
+==================================================
+36. IMAGE DIRECTION
+==================================================
+
+This is extremely important.
+
+Every major image must visually communicate the Nigerian ecosystem.
+
+Use:
+
+Lagos offices
+
+Abuja corporate environments
+
+Nigerian professionals
+
+Nigerian SMEs
+
+Nigerian financial teams
+
+Nigerian boardrooms
+
+Nigerian entrepreneurs
+
+Nigerian banks
+
+Nigerian manufacturing
+
+Nigerian business districts
+
+African corporate environments
+
+Avoid:
+
+Generic American office imagery
+
+European office environments
+
+Obviously AI-generated faces
+
+People who look culturally disconnected from the Nigerian environment
+
+Overly staged handshake photos
+
+Generic "businessman pointing at chart" stock imagery
+
+==================================================
+37. REALISM
+==================================================
+
+The website should look like a real Nigerian accounting firm.
+
+Use realistic content lengths.
+
+Do not fill the page with meaningless lorem ipsum.
+
+Do not use generic placeholder text such as:
+
+"Lorem ipsum"
+
+"Your company here"
+
+"Professional solutions for modern businesses"
+
+Instead, write realistic professional copy based on the firm's actual services and positioning.
+
+Where information cannot be verified from the current website, clearly mark the content as:
+
+[CONTENT TO BE CONFIRMED]
+
+==================================================
+38. INTERACTION DESIGN
+==================================================
+
+Implement actual working interactions.
+
+Hero carousel:
+
+WORKING
+
+Navigation:
+
+WORKING
+
+Mega menu:
+
+WORKING
+
+Service filters:
+
+WORKING
+
+Project filters:
+
+WORKING
+
+Blog filters:
+
+WORKING
+
+Search:
+
+WORKING FRONTEND MOCKUP
+
+Contact form:
+
+WORKING FRONTEND VALIDATION
+
+Consultation form:
+
+WORKING FRONTEND FLOW
+
+Mobile navigation:
+
+WORKING
+
+Buttons:
+
+WORKING
+
+Do not create buttons that do nothing.
+
+If functionality is not connected to a backend, provide an appropriate mock interaction or confirmation state.
+
+==================================================
+39. DESIGN DETAILS
+==================================================
+
+Use:
+
+Subtle hover effects
+
+Scroll reveal
+
+Image zoom
+
+Animated counters where verified
+
+Card transitions
+
+Smooth carousel
+
+Sticky CTA
+
+Animated navigation
+
+Section transitions
+
+Elegant shadows
+
+Modern borders
+
+Premium spacing
+
+Avoid excessive animation.
+
+The website must feel professional enough for a financial institution.
+
+==================================================
+40. FOOTER
+==================================================
+
+Create a complete corporate footer.
+
+Columns:
+
+ABOUT
+
+SERVICES
+
+AUDIT
+
+TAX
+
+ADVISORY
+
+RESOURCES
+
+OUR TEAM
+
+PROJECTS
+
+BLOG
+
+CONTACT
+
+Include:
+
+Address
+
+Phone
+
+Email
+
+Social media
+
+Newsletter
+
+Privacy Policy
+
+Terms
+
+Copyright
+
+==================================================
+41. TECHNICAL IMPLEMENTATION
+==================================================
+
+Build the website using:
+
+React
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide Icons
+
+shadcn/ui where useful
+
+Use reusable components.
+
+Create a clean folder structure.
+
+Use responsive design.
+
+Use optimized image loading.
+
+Use semantic HTML.
+
+Implement SEO metadata.
+
+Implement OpenGraph metadata.
+
+Use accessible navigation.
+
+==================================================
+42. IMPORTANT CONTENT RULE
+==================================================
+
+Before replacing any existing content:
+
+Review the current website.
+
+Preserve the actual business information.
+
+Preserve the actual service offerings.
+
+Preserve the company's identity.
+
+Preserve relevant existing pages.
+
+Preserve contact information.
+
+Preserve useful blog/news content.
+
+Improve the presentation rather than changing the business.
+
+Do not invent clients.
+
+Do not invent awards.
+
+Do not invent professional qualifications.
+
+Do not invent financial figures.
+
+Do not invent years of experience.
+
+Use placeholders where verification is required.
+
+==================================================
+43. FINAL OUTPUT
+==================================================
+
+The Replit project must open directly into a COMPLETE WORKING WEBSITE MOCKUP.
+
+I should be able to:
+
+- Navigate the entire website
+- Open every menu
+- View every major page
+- Navigate between services
+- View team members
+- Browse projects
+- Filter projects
+- Browse blog posts
+- Use the hero slider
+- Submit forms
+- Experience mobile navigation
+- View responsive desktop/tablet/mobile layouts
+- Experience animations
+- See realistic Nigerian imagery
+- Understand immediately that AUDITING is the firm's primary offering
+
+The result must look like a website that could genuinely be presented to Rasaki Muritala & Co. for approval.
+
+DO NOT return a design document.
+
+BUILD THE WEBSITE.
+
+The final visual impression should be:
+
+"THIS IS A SERIOUS, ESTABLISHED NIGERIAN AUDIT AND FINANCIAL SERVICES FIRM."
+
+not:
+
+"THIS IS A GENERIC CONSULTING WEBSITE TEMPLATE."
